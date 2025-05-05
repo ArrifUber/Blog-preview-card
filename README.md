@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-9V-4jBlHMB)
 - Live Site URL: [live site URL](https://grand-melomakarona-883001.netlify.app/)
 
 ## My process
